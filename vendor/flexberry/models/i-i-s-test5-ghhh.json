@@ -1,0 +1,30 @@
+﻿{
+  "name": "IISTest5ghhh",
+  "modelName": "i-i-s-test5-ghhh",
+  "className": "ghhh",
+  "nameSpace": "IIS.Test5",
+  "parentModelName": null,
+  "parentClassName": null,
+  "attrs": [],
+  "belongsTo": [],
+  "hasMany": [],
+  "projections": [
+    {
+      "name": "ghhhE",
+      "modelName": "i-i-s-test5-ghhh",
+      "attrs": [],
+      "belongsTo": [],
+      "hasMany": []
+    },
+    {
+      "name": "ghhhL",
+      "modelName": "i-i-s-test5-ghhh",
+      "attrs": [],
+      "belongsTo": [],
+      "hasMany": []
+    }
+  ],
+  "stored": true,
+  "offline": true,
+  "external": false
+}
